@@ -31,9 +31,15 @@ textarea {
   border-radius: 15px;
 }
 
+#col-date{
+  text-align: center;
+  border-radius: 15px;
+}
+
 .row {
   white-space: pre-wrap;
   height: 80px;
+  width: 1250px;
   border-top: 1px solid white;;
 }
 
